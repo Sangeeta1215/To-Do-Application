@@ -8,7 +8,6 @@ export default function ToDoApplication() {
        <div className="row">
         <div className="col-4  border m-auto my-5">
           <Todo />
-
         </div>
        </div>
        </div>
