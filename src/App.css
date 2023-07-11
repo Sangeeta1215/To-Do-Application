@@ -44,3 +44,7 @@ background-color: cornflowerblue;
 {
 float:right;
 }
+.addItem
+{
+justify-content: space-between;
+}
